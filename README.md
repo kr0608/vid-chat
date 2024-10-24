@@ -1,3 +1,4 @@
 - Authentication in clerk
 - Navigation using shadcn ui
 - Socket.io server in next.js
+- Add online users in Socket.io
