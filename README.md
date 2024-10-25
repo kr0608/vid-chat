@@ -2,3 +2,5 @@
 - Navigation using shadcn ui
 - Socket.io server in next.js
 - Add online users in Socket.io
+- Display online users
+- Making a Call in Socket.io
