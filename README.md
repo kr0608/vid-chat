@@ -7,3 +7,6 @@
 - Call Notification UI
 - GetUserMedia in WebRTC
 - Mute/Unmute in WebRTC
+- Emit Answer and Complete Peer Connection
+- Show Peer Video Stream on UI
+- Hangup Call
